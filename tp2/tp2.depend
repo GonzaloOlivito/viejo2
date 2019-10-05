@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1570155894 source:c:\users\sergio\desktop\pogramacion2019\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1570242802 source:c:\users\sergio\desktop\lab1\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"ArrayEmployees.h"
+
+1570230439 source:c:\users\sergio\desktop\lab1\tp2\gets.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"get.h"
+
+1570229968 c:\users\sergio\desktop\lab1\tp2\get.h
+
+1570230065 c:\users\sergio\desktop\lab1\tp2\gets.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"get.h"
+
+1570242802 source:c:\users\sergio\desktop\lab1\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1570234285 c:\users\sergio\desktop\lab1\tp2\utn.h
+
+1570242802 c:\users\sergio\desktop\lab1\tp2\arrayemployees.h
+
